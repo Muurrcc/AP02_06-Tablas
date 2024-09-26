@@ -1,0 +1,16 @@
+body{
+    background-color: beige;
+}
+h1{
+    color: rgb(158, 158, 119);
+    text-align: center;
+    padding-top: 2%;
+    text-decoration: underline;
+    font-size: 300%;
+}
+th, td {
+    border: 2px solid black;
+    text-align: center;
+}
+table{  
+}
